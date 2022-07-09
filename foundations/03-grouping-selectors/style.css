@@ -1,0 +1,15 @@
+button {
+    font-size: 28px; 
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.black-button {
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    font-family: "Times New Roman";
+}
+
+.yellow-button {
+    background-color: hsl(50, 100%, 50%);
+    font-family: "Times New Roman";
+}

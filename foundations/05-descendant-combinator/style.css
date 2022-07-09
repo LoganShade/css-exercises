@@ -1,0 +1,15 @@
+/*both will work, highlight one block + shift+alt+a to uncomment*/
+
+div > p {
+    background-color: yellow;
+    color: #ff1111;
+    font: 20px;
+    text-align: center;
+}
+
+/* .container > .text {
+    background-color: yellow;
+    color: #ff1111;
+    font: 20px;
+    text-align: center;
+} */

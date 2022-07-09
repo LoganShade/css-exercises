@@ -1,0 +1,19 @@
+div {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd {
+    background-color: #e9907a; font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: hwb(236 0% 2%); font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: hsl(141, 49%, 61%); font-size: 24px; font-weight: 700;
+}
